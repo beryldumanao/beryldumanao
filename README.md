@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.beryldum.online"><strong>View Portfolio</strong></a>
+  <a href="https://www.beryldum.com"><strong>View Portfolio</strong></a>
 </p>
 
 <p align="center">
